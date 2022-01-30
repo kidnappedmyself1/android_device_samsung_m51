@@ -142,13 +142,6 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     lineage_charger_res_images
 
-# WiFi Display
-PRODUCT_PACKAGES += \
-    libdisplayconfig \
-    libdisplayconfig.vendor \
-    libnl \
-    libqdMetaData \
-    libqdMetaData.system
 
 #PRODUCT_BOOT_JARS += \
 #    WfdCommon
